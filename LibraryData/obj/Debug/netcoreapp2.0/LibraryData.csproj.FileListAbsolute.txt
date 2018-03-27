@@ -12,3 +12,12 @@ C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInf
 C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
 C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
 C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+E:\desenv\palestra\Git\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb

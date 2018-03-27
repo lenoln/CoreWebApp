@@ -3393,25 +3393,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenoln\\.nuget\\packages\\": {},
+    "C:\\Users\\PC2017061205\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desenv\\CoreWebApp\\LibraryData\\LibraryData.csproj",
+      "projectUniqueName": "E:\\desenv\\palestra\\Git\\CoreWebApp\\LibraryData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "C:\\desenv\\CoreWebApp\\LibraryData\\LibraryData.csproj",
-      "packagesPath": "C:\\Users\\lenoln\\.nuget\\packages\\",
-      "outputPath": "C:\\desenv\\CoreWebApp\\LibraryData\\obj\\",
+      "projectPath": "E:\\desenv\\palestra\\Git\\CoreWebApp\\LibraryData\\LibraryData.csproj",
+      "packagesPath": "C:\\Users\\PC2017061205\\.nuget\\packages\\",
+      "outputPath": "E:\\desenv\\palestra\\Git\\CoreWebApp\\LibraryData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lenoln\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC2017061205\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
