@@ -1,0 +1,5 @@
+E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs

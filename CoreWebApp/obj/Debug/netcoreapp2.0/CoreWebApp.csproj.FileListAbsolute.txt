@@ -1,0 +1,11 @@
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.deps.json
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.json
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.dev.json
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.dll
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.pdb
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csprojResolveAssemblyReference.cache
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csproj.CoreCompileInputs.cache
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfoInputs.cache
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfo.cs
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.dll
+E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.pdb
