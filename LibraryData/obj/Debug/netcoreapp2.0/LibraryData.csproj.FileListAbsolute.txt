@@ -3,3 +3,12 @@ E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\Lib
 E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
 E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
 E:\desenv\palestra\coreWebAPP\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\desenv\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\desenv\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\desenv\CoreWebApp\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+C:\desenv\CoreWebApp\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb

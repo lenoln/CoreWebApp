@@ -9,3 +9,17 @@ E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\Core
 E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfo.cs
 E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.dll
 E:\desenv\palestra\coreWebAPP\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.pdb
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.deps.json
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.json
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.runtimeconfig.dev.json
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.dll
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\CoreWebApp.pdb
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\desenv\CoreWebApp\CoreWebApp\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csprojResolveAssemblyReference.cache
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csproj.CoreCompileInputs.cache
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfoInputs.cache
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.AssemblyInfo.cs
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.csproj.CopyComplete
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.dll
+C:\desenv\CoreWebApp\CoreWebApp\obj\Debug\netcoreapp2.0\CoreWebApp.pdb
